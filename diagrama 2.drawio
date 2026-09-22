@@ -1,0 +1,44 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="fwD3ctfq1DJv2fOVJtCh">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1Mp42IEvyX56eWrv2djw-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Inicio&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="140" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1Mp42IEvyX56eWrv2djw-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=light-dark(#006EAF,#FFE6CC);" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fim&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="400" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="_iSckBPzAGv4BGcYKQCw-1" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="130" as="sourcePoint" />
+            <mxPoint x="200" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_iSckBPzAGv4BGcYKQCw-4" edge="1" parent="1" source="_iSckBPzAGv4BGcYKQCw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_iSckBPzAGv4BGcYKQCw-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ler Km inicias,finais,gasolina&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="160" x="120" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_iSckBPzAGv4BGcYKQCw-6" edge="1" parent="1" source="_iSckBPzAGv4BGcYKQCw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_iSckBPzAGv4BGcYKQCw-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Quantoskmandou=&amp;nbsp;&lt;div&gt;final-inicial&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="_iSckBPzAGv4BGcYKQCw-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="100*gasolina/kmandou" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="_iSckBPzAGv4BGcYKQCw-8" edge="1" parent="1" source="_iSckBPzAGv4BGcYKQCw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" target="1Mp42IEvyX56eWrv2djw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

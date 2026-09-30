@@ -15,7 +15,7 @@
             <mxPoint x="620" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g6G6JCcjHS2Q8j1AEr62-3" connectable="0" parent="zRtJulA1v0G3ZEimDcWe-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Text" vertex="1">
+        <mxCell id="g6G6JCcjHS2Q8j1AEr62-3" connectable="0" parent="zRtJulA1v0G3ZEimDcWe-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="nao" vertex="1">
           <mxGeometry relative="1" x="-0.3888" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -28,7 +28,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zRtJulA1v0G3ZEimDcWe-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&amp;nbsp;n acaba em 1,3,5,7 ,9" vertex="1">
+        <mxCell id="zRtJulA1v0G3ZEimDcWe-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&amp;nbsp;n e divisivel por 2" vertex="1">
           <mxGeometry height="120" width="140" x="340" y="730" as="geometry" />
         </mxCell>
         <mxCell id="zRtJulA1v0G3ZEimDcWe-15" edge="1" parent="1" source="zRtJulA1v0G3ZEimDcWe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zRtJulA1v0G3ZEimDcWe-11">

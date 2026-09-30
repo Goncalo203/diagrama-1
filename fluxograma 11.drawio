@@ -134,10 +134,13 @@
         <mxCell id="ZVX30Y3swaNQvk6SoiLz-23" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="escrever &quot;Dados inválidos&quot;" vertex="1">
           <mxGeometry height="60" width="120" x="530" y="630" as="geometry" />
         </mxCell>
+        <mxCell id="47SkSSNNeL8JfJU_soye-1" edge="1" parent="1" source="ZVX30Y3swaNQvk6SoiLz-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="ZVX30Y3swaNQvk6SoiLz-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZVX30Y3swaNQvk6SoiLz-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="760" y="760" as="geometry" />
         </mxCell>
-        <mxCell id="ZVX30Y3swaNQvk6SoiLz-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+        <mxCell id="ZVX30Y3swaNQvk6SoiLz-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Fim" vertex="1">
           <mxGeometry height="80" width="120" x="827" y="720" as="geometry" />
         </mxCell>
       </root>
